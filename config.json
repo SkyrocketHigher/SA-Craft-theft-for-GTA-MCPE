@@ -9,7 +9,7 @@
       
       "addon": false,
       "maps": false,
-      "texture": true,
+      "texture": false,
       "skin": true,
       "more": false,
       
@@ -55,36 +55,12 @@
   ],
   "Texture": [
     {
-        "name": "Craft Sims 0.9 - BIG INTERACTIONS UPDATE! (B)",
-        "role": "Hey! you there! Are you tired of stepping into your world and feeling alone? With no one to talk to or hang out with? Well those days are over my friend! Because the Craft Sims addon brings a new species to the game that is nothing more and nothing less than humans! and with that you can become friend, enemy and even date, marry and have children with them!",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Come Alive/2/3.jpeg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Come Alive/2/Craft_Sims_BEH.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Come Alive/2/2.jpeg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Come Alive/2/1.jpeg"
-    },
-    {
-        "name": "Craft Sims 0.9 - BIG INTERACTIONS UPDATE! (R)",
-        "role": "Hey! you there! Are you tired of stepping into your world and feeling alone? With no one to talk to or hang out with? Well those days are over my friend! Because the Craft Sims addon brings a new species to the game that is nothing more and nothing less than humans! and with that you can become friend, enemy and even date, marry and have children with them!",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Come Alive/2/6.jpeg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Come Alive/2/Craft_Sims_RES.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Come Alive/2/5.jpeg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Come Alive/2/4.jpeg"
-    },
-    {
-        "name": "World Problems (Weapons, Soldier and New Mobs!) (B)",
-        "role": "A normal world? Why not a world with a little more difficulty? And why not try this addon? And add more difficulty to your world! I know you will not regret it, look at it, try it and tell me if you like it or not, I wish you luck.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Come Alive/4/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Come Alive/4/World Problems (Behavior).mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Come Alive/4/3.png",
-        "imgcoverdua": "https://kossandroid.com/"
-    },
-    {
-        "name": "World Problems (Weapons, Soldier and New Mobs!) (R)",
-        "role": "A normal world? Why not a world with a little more difficulty? And why not try this addon? And add more difficulty to your world! I know you will not regret it, look at it, try it and tell me if you like it or not, I wish you luck.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Come Alive/4/6.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Come Alive/4/World Problems (Resource).mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Come Alive/4/5.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Come Alive/4/4.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Skins": [
